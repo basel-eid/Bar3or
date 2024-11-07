@@ -11,7 +11,7 @@ class Home extends StatelessWidget {
         leading: IconButton(onPressed: (){
           Navigator.push(context, MaterialPageRoute(builder: (context) => Register()));
         }, icon: Icon(Icons.arrow_circle_left_sharp)),
-        title: Text("Home Page",style: TextStyle(fontWeight: FontWeight.bold,fontSize: 40),),
+        title: Text("Home Page111111111",style: TextStyle(fontWeight: FontWeight.bold,fontSize: 40),),
         centerTitle: true,
       ),
       body: Column(
